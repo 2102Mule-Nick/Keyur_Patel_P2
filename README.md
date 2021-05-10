@@ -1,2 +1,3 @@
 # Keyur_Patel_P2
 Project 2
+The American Flights API is a system API for operations on the american table in the flights database. It supports the following operations: get all flights, get a flight with a specific ID, add a flight, delete a flight, partially update a flight, and replace a flight. My role for this project was to create Database for American Flights API using PostgreSQL and AWS. I have also used Design center to create RAML specification for this project, AnyPoint Studio to implement business logic and code my application. I have used Anypoint Platform to deploy my API. I have used API Manager to manage my API.
