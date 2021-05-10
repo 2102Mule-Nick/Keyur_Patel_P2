@@ -11,4 +11,4 @@ The American Flights API is a system API for operations on the american table in
 - Exchange to import reusable APIs, connectors, and templates.
 - AWS and PostgreSQL to manage the data for the project. 
 #### Environment / Technologies:
-Mulesoft, Anypoint Platform, Anypoint Studio, REST, PostgreSQL, AWS RDS
+Mulesoft, Anypoint Platform, Anypoint Studio, XML, Exchange, Access Management, API Manager, Runtime Manager, Design Center, REST, PostgreSQL, AWS RDS
